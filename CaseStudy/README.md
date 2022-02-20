@@ -1,1 +1,1 @@
-![Case Study 1 - smart sanitizer Dispenser](https://github.com/rajprasanth27k/M2-EmbSys/blob/b9691967e31d58f3b6b6d464b631a45e36242745/CaseStudy/Case%20Study%201%20-%20smart%20sanitizer%20Dispenser.pdf) 
+![Case Study 1 - smart sanitizer Dispenser.pdf](https://github.com/rajprasanth27k/M2-EmbSys/blob/b9691967e31d58f3b6b6d464b631a45e36242745/CaseStudy/Case%20Study%201%20-%20smart%20sanitizer%20Dispenser.pdf) 
