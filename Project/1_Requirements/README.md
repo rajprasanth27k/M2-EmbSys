@@ -27,3 +27,14 @@
  ![4 W's and 1 H](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/ad903af11ad37efce107c15e852f363a3933e3d5/1_Requirements/4%20W's%20and%201%20H.jpg)
 
 
+
+# Advantages:
+  * It shall be controlling the motor by Starting and Stopping, checking the status of the motor through the mobile phone.
+  *	It shall use for Dry run prevention. 
+# Disadvantages:
+*	It may cause some network issues based the locations.
+* It must recharge sim which has been inserted in GSM module. 
+# Applications:
+* It shall be used for Agriculture Field
+* Building water tank can be controlled.
+
