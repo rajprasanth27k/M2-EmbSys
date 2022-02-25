@@ -1,5 +1,4 @@
 # Description
-# Description
    Cowin-Portal is a  registration Form based project to handles all the details of vaccination patients. The data contains the persons status of vaccine availability. Previously (short-1) vaccination data was very difficult maintain, so there was a need for software that can handle all the vaccination data. Our Government of India is trying to preventing the spread of the virus. At present, the priority is to make  covid-19 vaccine available to all, ensuring vaccine traceability and beneficiary tracking from portal. Co-win form is the digital registration form for the vaccination drive in India. With scaling up of vaccination, the number of vaccination facilities and managed effectively. It has option to register and schedule the vaccination session online in Centers of their choice. The Citizen can register them self-module with phone, Aadhar number for who eligible for vaccines. using Co-WIN application, we can download the vaccination certificates using auto genaration system.
 # Requirements
 ## High Level Requirements
