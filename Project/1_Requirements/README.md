@@ -38,6 +38,8 @@ Now a days, Security has become the most challenging task. Everyone want to be s
 *	It may cause some network issues based the locations.
 * It must recharge sim which has been inserted in GSM module. 
 # Applications:
-* It shall be used for Agriculture Field
-* Building water tank can be controlled.
+* Banking fields
+* Home security system
+* Government offices
+* Public museum
 
