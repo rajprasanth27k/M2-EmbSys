@@ -1,8 +1,9 @@
 # Description
    SMART SECURITY SYSTEM  is  more  efficient than  the traditional  method  of  the  door  locking  system  which  helps  to regulate  your  security  according  to  user  convenience  to monitor  and  controlling  authorized  entry  inside  home.  If above  security  system  integrated  with  internet  connectivity through  ZigBee  module  it  will  help  to  monitor  intrusion remotely  from  anywhere.  Somewhere  we  can  implement  this system  to  work  on  real  time  processing  for  providing  the  live recording  with  camera.  System is  easy  to  extend  further  with different  modules  and  various  sensors  as  per  requirement  of home.
 Now a days, Security has become the most challenging task. Everyone want to be safe but in present scenario no one is safe not even in their own houses. Home is a place where we keep our asset and our capital. But we can never be sure about the security of that asset behind us. We generally lock houses when going out of the house. But just locking the home is not enough, there must be a system which keep track of the activities and report to the owner accordingly and work according to the response of the owner. GSM Module could fit for the purpose as every body have mobile phones now a days and could receive messages from the system through GSM Module and can send message to the system for immediate action to be taken.
-
-
+ ## Features
+ 
+   ![TIME,COST ,FEATURE](https://github.com/rajprasanth27k/M2-EmbSys/blob/c4db32a6fc9b397cf7379a1f2694aa97a44c0037/Project/1_Requirements/TIME,COST%20,FEATURE.PNG)
 # Requirements
 ## High Level Requirements
 | ID | Description | Status (Implemented/Future) |
@@ -24,9 +25,9 @@ Now a days, Security has become the most challenging task. Everyone want to be s
 
 
 # SWOT
-  ![SWOT of vacccine registration](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/b332d0c9ff5cc7a40af651dc028259f600ab6773/1_Requirements/SWOT%20of%20vacccine%20registration.jpg)
+  ![SWOT](https://github.com/rajprasanth27k/M2-EmbSys/blob/c4db32a6fc9b397cf7379a1f2694aa97a44c0037/Project/1_Requirements/SWOT.PNG)
 # 4W's & 1H
- ![4 W's and 1 H](https://github.com/rajprasanth27k/M1_COWIN-PORTAL_UTI/blob/ad903af11ad37efce107c15e852f363a3933e3d5/1_Requirements/4%20W's%20and%201%20H.jpg)
+ ![4W1H](https://github.com/rajprasanth27k/M2-EmbSys/blob/c4db32a6fc9b397cf7379a1f2694aa97a44c0037/Project/1_Requirements/4W1H.PNG)
 
 
 
