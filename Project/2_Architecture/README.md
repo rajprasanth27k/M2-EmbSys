@@ -21,4 +21,5 @@ o	AVR At mega 328: Microcontroller development board with a chip of ATmega328P. 
   # Structural
    ![Flow Chart](https://github.com/rajprasanth27k/M2-EmbSys/blob/c39aa33b6ed3a824965a49f912af5f63a002783c/Project/2_Architecture/Flow%20Chart.PNG)
   
- 
+ # Behavioural
+  ![behavioral](https://github.com/rajprasanth27k/M2-EmbSys/blob/5cc595a0a06e6aa97574ad367148599fbbeaa467/Project/2_Architecture/behavioral.PNG)
