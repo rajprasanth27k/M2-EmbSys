@@ -21,13 +21,13 @@
 
 
 ## Low Level Requirement
-| ID | Description | Status (Implemented/Future) |
-| --- | --- | --- |
-| LR01 | 1 channel 30A Relay| Implemented |
-| LR02 | AVR ATMega328 | Implemented |
-| LR03 | Soil sensor | Implemented |
-| LR03 | LDR sensor | Implemented |
-| LR03 | Temparature sensor | Implemented |
+| ID | Description | Status (Implemented/Future) | Datasheet |
+| --- | --- | --- | --- |
+| LR01 | 1 channel 30A Relay| Implemented | [Link](https://www.electronicscomp.com/4-channel-12v-relay-module-with-optocoupler?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF5hhRr3daW6KOzVLY4ALC-p_AV5SRne2lwJdds1wiW0NHRfIwb7H84aAuazEALw_wcB) |
+| LR02 | AVR ATMega328 | Implemented | [Link](https://pdf1.alldatasheet.com/datasheet-pdf/view/392243/ATMEL/ATMEGA328.html)   |
+| LR03 | Soil sensor | Implemented | [Link](https://components101.com/modules/soil-moisture-sensor-module)   |
+| LR03 | LDR sensor | Implemented | [Link](https://components101.com/resistors/ldr-datasheet)   |
+| LR03 | Temparature sensor | Implemented | [Link](https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf)  |
 
 
 
