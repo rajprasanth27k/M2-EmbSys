@@ -4,7 +4,7 @@
 
 ## Sensor:
   * Soil sensor: It shall be sensing the level of the water in fails to avoid the dry field prevention.
-  * Temperature sensor: It used to detect the fire occurs in fields or Rain detected in field. 
+  * Temperature sensor: It used to detect the fire occurs in fields or Rainfall detected in field. 
   * LDR sensor: It is used to sense the Day / Night Status.
 
 ## Actuator:
