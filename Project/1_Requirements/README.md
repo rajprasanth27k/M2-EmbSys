@@ -12,7 +12,6 @@
 ## High Level Requirements
 | ID | Description | Status (Implemented/Future) |
 | --- | --- | --- |
-
 | HR02 | Soil Wet/Dry Detection | Implemented |
 | HR02 | Motor On/off | Implemented |
 | HR03 | Fire Detection | Implemented |
