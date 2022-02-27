@@ -1,6 +1,6 @@
 # Design
-# Structural
-   ![Block diagram](https://github.com/rajprasanth27k/M2-EmbSys/blob/c39aa33b6ed3a824965a49f912af5f63a002783c/Project/2_Architecture/Block%20diagram.PNG)
+# Block Diagram
+   ![Block](https://github.com/rajprasanth27k/M2-EmbSys/blob/d25629946d62fe6332052b50fefbad7c7e692f82/Project/2_Architecture/Block.PNG)
 
 ## Sensor:
 * Door sensor: It shall be sensing Door status with loop connection.
@@ -19,7 +19,7 @@ o	AVR At mega 328: Microcontroller development board with a chip of ATmega328P. 
 
 
   # Structural
-   ![Flow Chart](https://github.com/rajprasanth27k/M2-EmbSys/blob/c39aa33b6ed3a824965a49f912af5f63a002783c/Project/2_Architecture/Flow%20Chart.PNG)
+   ![Structural Diagram](https://github.com/rajprasanth27k/M2-EmbSys/blob/d25629946d62fe6332052b50fefbad7c7e692f82/Project/2_Architecture/Structural%20%20Diagram.PNG)
   
  # Behavioural
-  ![behavioral](https://github.com/rajprasanth27k/M2-EmbSys/blob/5cc595a0a06e6aa97574ad367148599fbbeaa467/Project/2_Architecture/behavioral.PNG)
+  ![behavioral](https://github.com/rajprasanth27k/M2-EmbSys/blob/d25629946d62fe6332052b50fefbad7c7e692f82/Project/2_Architecture/behavioral.PNG)
