@@ -1,4 +1,4 @@
-# 1.1 HIGH LEVEL TEST PLAN
+## 1.1 HIGH LEVEL TEST PLAN
 
 | Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
 | --- | --- | --- | --- | --- | --- |
@@ -16,9 +16,9 @@
 | 09 | Keypad | 0 | 0 (Resets Password) | 0 (Resets Password) | ✅ |
 | 10 | Keypad | # | # (Restarts our system) | * (Restarted our system) | ✅ |
 
-### Here below are the some of the *unity test/ unity framework* test plans there are so many but I have only mentiones some of the test cases here.
 
-# 1.2 LOW LEVEL TEST PLAN
+
+## 1.2 LOW LEVEL TEST PLAN
 
 | Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
 | --- | --- | --- | --- | --- | --- |
