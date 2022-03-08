@@ -4,7 +4,7 @@ Agriculture is the mainstay of the economy. It contributes to the gross domestic
 
 ## YOUTUBE VIDEO LINK
  [LINK](https://youtu.be/T-XgpqVqYrc)
-## Simulation Pic
+## Simulation circuit
  ![simuide](https://github.com/rajprasanth27k/M2-EmbSys/blob/83dfd9d83e6ef8505f002ff53e9ac4359dc0cf9b/Project/8_Output/simuide.PNG)
 
 
