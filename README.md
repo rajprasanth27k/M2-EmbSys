@@ -1,4 +1,4 @@
-## M2-EmbSys
+## M2-EmbSys -Project
 
 ##  SMART CROP MONITORING SYSTEM
 | Cppcheck | Unit Testing | Codiga | Codacy |
