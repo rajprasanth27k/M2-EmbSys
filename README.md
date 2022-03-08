@@ -1,8 +1,8 @@
 ## M2-EmbSys -Project
 
 ##  SMART CROP MONITORING SYSTEM
-| Cppcheck | Codiga | Codacy |
-| --- | --- | --- | 
+|  Codiga | Codacy |
+| --- | --- | 
 |![Codiga](https://api.codiga.io/project/31762/score/svg)   ![Codiga](https://api.codiga.io/project/31762/status/svg)|![Codacy Badge](https://app.codacy.com/project/badge/Grade/9082a44149b5489e8241c69d94f9b0e0)|
 
 
