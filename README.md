@@ -1,7 +1,7 @@
 ## M2-EmbSys -Project
 
 ##  SMART CROP MONITORING SYSTEM
-| Cppcheck | Unit Testing | Codiga | Codacy |
+| Cppcheck | Codiga | Codacy |
 | --- | --- | --- | --- | 
 |[![Cppcheck](https://github.com/Manjunadh521/M2-EmbSys/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/Manjunadh521/M2-EmbSys/actions/workflows/Cppcheck.yml)|![Codiga](https://api.codiga.io/project/31537/score/svg)   ![Codiga](https://api.codiga.io/project/31537/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3d75110db4a94beb96107082c9af8b11)](https://www.codacy.com/gh/Manjunadh521/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Manjunadh521/M2-EmbSys&amp;utm_campaign=Badge_Grade)|
 
