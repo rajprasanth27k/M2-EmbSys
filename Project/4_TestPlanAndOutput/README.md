@@ -2,7 +2,7 @@
 
 | Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
 | --- | --- | --- | --- | --- | --- |
-| 01 | Thermistor | Room Temperature(25°C) | Temperature(25°C) | Temperature(25°C) | - [ ] |
+| 01 | Thermistor | Room Temperature(25°C) | Temperature(25°C) | Temperature(25°C) | ❌ |
 | 01 | Thermistor | Room Temperature(35°C) | Temperature(35°C) | Temperature(35°C) |- [x] |
 | 02 | Keypad | 1 | 1(Door Opens) | 1(Door Opens) | ✅ |
 | 03 | Keypad | 2 | 2(Door Closes) | 2(Door Closes) | ✅ |
