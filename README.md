@@ -3,7 +3,7 @@
 ##  SMART CROP MONITORING SYSTEM
 |  Codiga | Codacy |
 | --- | --- | 
-|![Codiga](https://api.codiga.io/project/31762/score/svg)   ![Codiga](https://api.codiga.io/project/31762/status/svg)|![Codacy Badge](https://app.codacy.com/project/badge/Grade/9082a44149b5489e8241c69d94f9b0e0)|
+|![Codiga](https://api.codiga.io/project/31917/score/svg)   ![Codiga](https://api.codiga.io/project/31917/status/svg)|![Codacy Badge](https://app.codacy.com/project/badge/Grade/9082a44149b5489e8241c69d94f9b0e0)|
 
 
 <a href="https://app.codiga.io/public/user/github/rajprasanth27k">
